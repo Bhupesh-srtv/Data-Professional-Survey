@@ -42,7 +42,7 @@ A Power BI dashboard built to analyze survey responses from **630 data professio
 📦 data-professional-survey-powerbi
  ┣ 🖼️ dashboard_preview.png           # Screenshot of the final dashboard
  ┣ 📊 DataProfessional_Survey.pbix    # Main Power BI file
- ┣ 📄 survey_data.xlse                 # Raw dataset (if applicable)
+ ┣ 📄 survey_data.xlsx                 # Raw dataset (if applicable)
  ┗ 📄 README.md
 ```
 
