@@ -50,7 +50,7 @@ A Power BI dashboard built to analyze survey responses from **630 data professio
 
 ## 📷 Dashboard Preview
 
-![Dashboard Preview]([dashboard_preview.png](https://github.com/Bhupesh-srtv/Data-Professional-Survey/blob/main/Data%20Professional%20Survey.PNG))
+![Dashboard Preview](https://github.com/Bhupesh-srtv/Data-Professional-Survey/blob/main/Data%20Professional%20Survey.PNG)
 
 ---
 
